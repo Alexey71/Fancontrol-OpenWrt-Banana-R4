@@ -1,0 +1,44 @@
+msgid "Fan General Control"
+msgstr "Управление вентилятором"
+
+msgid "Enabled"
+msgstr "Включить"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Thermal File"
+msgstr "Путь до файла температурного датчика"
+
+msgid "Fan Speed File"
+msgstr "Путь до файла скорости вентилятора"
+
+msgid "Temperature coefficient"
+msgstr "Температурный коэффициент"
+
+msgid "Initial Speed"
+msgstr "Начальная скорость"
+
+msgid "Please enter the initial speed for fan startup."
+msgstr "Введите начальную скорость для запуска вентилятора."
+
+msgid "Max Speed"
+msgstr "Максимальная скорость"
+
+msgid "Please enter maximum fan speed（0-255）."
+msgstr "Введите максимальную скорость вращения вентилятора(0-255)."
+
+msgid "Start Temperature"
+msgstr "Начальная температура"
+
+msgid "The temperature coefficient defaults to 1000."
+msgstr "Температурный коэффициент по умолчанию равен 1000."
+
+msgid "Please enter the fan start temperature."
+msgstr "Введите начальную скорость вращения вентилятора."
+
+msgid "Current speed:"
+msgstr "Текущая скорость:"
+
+msgid "Current temperature:"
+msgstr "Текущая температура:"
